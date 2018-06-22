@@ -1,0 +1,7 @@
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\obj\Debug\Contestent.csproj.CoreCompileInputs.cache
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\bin\Debug\Contestent.exe.config
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\bin\Debug\Contestent.exe
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\bin\Debug\Contestent.pdb
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\obj\Debug\Contestent.exe
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\obj\Debug\Contestent.pdb
+C:\Users\jvoll\Documents\Projects\Contestent\Contestent\Contestent\obj\Debug\Contestent.csprojAssemblyReference.cache
